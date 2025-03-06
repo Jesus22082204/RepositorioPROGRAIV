@@ -1,0 +1,34 @@
+/* comentariossssss	*/
+
+body {
+	background-color:  #9191ff;
+
+}
+.pDiferente{
+	color: yellow;
+}
+
+.negritaSemantica{
+	font-weight: bold;
+	color: black;
+}
+
+.divRGBA{
+	width: 50%;
+	background-color:  rgba(104, 255, 0, 0.5);
+}
+
+.divHSL {
+	width: 50%;
+	background-color: hsl(215, 100%, 50%);
+	padding: 20px;
+	margin-top: 50px;
+	margin: auto;
+}
+
+.divPadding{
+	width: 50%;
+	padding: 20px;
+	margin: auto;
+	margin-top: 50px;
+}
